@@ -6,7 +6,7 @@ public class SimpleMortarGame {
         double range;
         double g = 9.81;
         double angleInRadians = Math.toRadians(firingAngleInDegrees);
-        // calculating range of the diagonal projection
+        // calculating range of the projectile motion
         range = (2 * Math.pow(initialVelocity, 2) * Math.sin(angleInRadians) * Math.cos(angleInRadians)) / g;
         return range;
     }
