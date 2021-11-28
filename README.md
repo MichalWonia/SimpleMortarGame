@@ -1,6 +1,6 @@
 # SimpleMortarGame
 
-A simple game based on a diagonal throw.
+A simple game based on a projectile motion.
 
 ## Author
 Michal Wonia <br/>
