@@ -52,6 +52,7 @@ public class SimpleMortarGame {
             numberOfMissiles--;
         }
         System.out.println("Game over");
+        sc.close();
     }
 
     public static void main(String[] args) {
